@@ -68,3 +68,4 @@ p.plot(forecastcs,xlabel='Date',ylabel='Players')
 dan akhirnya datapun terplot
 ![CsGopredict](https://github.com/Bayusatriapersada/Game-Player-Analysis/blob/master/Image/Csgo.PNG)
 ![r6predict](https://github.com/Bayusatriapersada/Game-Player-Analysis/blob/master/Image/R6.PNG)
+Untuk lebih jelasnya lihat pada Presentasi dan juga Pada notebook yang telah di cantumkan di atas
