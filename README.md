@@ -1,7 +1,7 @@
 # Game-Player-Analysis
 A repo for Probability and stochastic processing, and Data Analysis for game players and its data story
 by
-Bayu Satria Persada              (1706985924)
+* Bayu Satria Persada              (1706985924)
 
 OVERVIEW
 * [Description](#Description)
