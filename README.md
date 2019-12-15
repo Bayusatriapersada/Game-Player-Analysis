@@ -5,8 +5,8 @@ Bayu Satria Persada              (1706985924)
 
 OVERVIEW
 * [Description](#Description)
-* [Process](#Predicting)
-* [Code](https://github.com/Bayusatriapersada/Game-Player-Analysis/blob/master/Game_Player_analysis.ipynb)
+* [Predicting](#Predicting)
+* [Notebook](https://github.com/Bayusatriapersada/Game-Player-Analysis/blob/master/Game_Player_analysis.ipynb)
 * [Presentation]()
 
 
