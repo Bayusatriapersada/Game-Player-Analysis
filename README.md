@@ -11,7 +11,10 @@ OVERVIEW
 
 
 ## Description
+###CS:GO
 CSGO merupakan game FPS (First Person Shooter) yang dibuat oleh Valve dan Hidden path Entertainment, CS:GO merupakan seri ke empat dari Counter Strike , dan baru di release pada tahun 2014. Semenjak game ini dilaunch di Steam , CS:GO terus mengundah banyak player baru  yang setiap bulannya lebih dari ratusan ribu pemain, Bisa di katakan bahwa CS:GO merupakan game terbesar di bidang FPS yang terdapat di Steam market.
+
+###Rainbow Six Siege
 Rainbow Six siege (R6) merupakan salah satu seri dari Tom Clancy’s Rainbow six series, yang merupakan Online Tactical Shooter dan bisa disebut juga First Person Shooter yang di kembangkan oleh Ubisoft dan di release pada tahun 2015, tepatnya pada 1 Desember 2015.
 Rainbow Six Siege setelah launchnya diberikan title oleh kritikus game tertentu sebagai salah satu game multiplayer terbaik di pasar modern karena update updatenya setelah di launch
 dari kedua dasar game tersebut saya ingin menemukan titik korelasi antara kedua game ini, karena saya memiliki hipotesa bahwa game memiliki karakteristik yang sama halnya seperti sebuah musik, ketika seseorang bosan dengan musik dengan genre tertentu maka orang itu akan mencari musik baru dengan genre yang sama, dan kemungkinannya lebih besar, begitu juga dengan Game.
