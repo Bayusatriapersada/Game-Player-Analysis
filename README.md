@@ -7,7 +7,8 @@ OVERVIEW
 * [Description](#Description)
 * [Predicting](#Predicting)
 * [Notebook](https://github.com/Bayusatriapersada/Game-Player-Analysis/blob/master/Game_Player_analysis.ipynb)
-* [Presentation]()
+* [Presentation](https://github.com/Bayusatriapersada/Game-Player-Analysis/blob/master/Game%20Analysis.pptx)
+* [Infographics](https://www.instagram.com/p/B6IAgAsnnx6/?utm_source=ig_web_button_share_sheet)
 
 
 ## Description
